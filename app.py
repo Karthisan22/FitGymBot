@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 # --- Load API Key ---
 load_dotenv()
-cohere_api_key = os.getenv("CO_API_KEY")
+cohere_api_key = "f0CXfqp4A6RdycZf2QXGkipnF5dDitBa5v3IQkig"
 co = cohere.Client(cohere_api_key)
 
 # --- Load Dataset (optional, if needed) ---
