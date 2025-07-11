@@ -1,0 +1,67 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+*.env
+venv/
+ENV/
+env/
+.venv/
+
+# SQLite database files
+*.sqlite3
+
+# Streamlit config
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Data files
+*.csv
+*.tsv
+
+# Media files
+*.mp4
+*.mov
+*.webm
+*.jpg
+*.jpeg
+*.png
+
+# Document files
+*.docx
+
+# Backup and swap files
+*.bak
+*.swp
+
+# Node modules (if using JS/TS)
+node_modules/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+ehthumbs.db
+Desktop.ini
+
+# Python distribution files
+build/
+dist/
+*.egg-info/
